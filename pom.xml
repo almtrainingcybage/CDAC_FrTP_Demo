@@ -12,7 +12,7 @@
 	<artifactId>CDAC_FrTP_Demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CDAC_FrTP_Demo</name>
-	<description>My Demo project for Git training CDAC FrTP</description>
+	<description>My 1st Demo project for Git training CDAC FrTP</description>
 
 	<properties>
 		<java.version>11</java.version>
